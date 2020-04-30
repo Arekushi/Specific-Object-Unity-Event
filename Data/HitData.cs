@@ -2,7 +2,7 @@
 using UnityEngine;
 using UnityEngine.Events;
 
-namespace Arekushi.UnityEvent
+namespace Arekushi.SpecificUnityEvent
 {
     public class HitData
     {
