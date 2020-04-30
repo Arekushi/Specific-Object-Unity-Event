@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine.Events;
 
-namespace Arekushi.UnityEvent
+namespace Arekushi.SpecificUnityEvent
 {
     public class UnityEventBase<T> : UnityEvent<T> { }
 }
